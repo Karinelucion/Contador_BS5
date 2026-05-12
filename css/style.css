@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+  .w-lg-auto {
+    width: auto !important;
+  }
+}
+
+.bg-gray-300 {
+  background-color: var(--bs-gray-400);
+}
